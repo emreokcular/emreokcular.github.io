@@ -6,7 +6,7 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 ## Contact Info
 
 * [E-Mail](mailto:emreokcular@gmail.com)
-* [Linkedin](www.linkedin.com/in/emreokcular)
+* [Linkedin](https://www.linkedin.com/in/emreokcular)
 * [GitHub](https://github.com/emreokcular)
 * [Resumee](/resources/Emre_Okcular-CV.pdf)
 
