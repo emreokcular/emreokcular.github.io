@@ -9,13 +9,13 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 
 <br>
 
-## [Resume](/resources/mre_Okcular-Resume(Dec_2020))
+**Check out my [Resume](/resources/Emre_Okcular-Resume(Dec_2020).pdf)**
 
 <br>
 
 ## Contact Info
 
 * [E-Mail](mailto:emreokcular@gmail.com)
-* [Linkedin](https://www.linkedin.com/in/emreokcular)
+* [LinkedIn](https://www.linkedin.com/in/emreokcular)
 * [GitHub](https://github.com/emreokcular)
 
