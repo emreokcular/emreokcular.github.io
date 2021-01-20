@@ -9,6 +9,10 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 
 # [Resume](/resources/Emre_Okcular-Resume(Dec_2020).pdf)
 
+# Projects
+* [Analysing optimism in 2020](/projects/2020.md)
+* [Random words twitter bot](/projects/kelimebot.md)
+
 ## Contact Info
 
 * [E-Mail](mailto:emreokcular@gmail.com)
