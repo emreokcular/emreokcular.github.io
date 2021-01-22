@@ -14,7 +14,7 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 * [Random words twitter bot](/projects/kelimebot.md)
 
 # Stories
-* Loading...
+* [Machine Hearts](/stories/machine_hearts.md)
 
 # Music
 * [SoundCloud](https://soundcloud.com/emreokcular)
