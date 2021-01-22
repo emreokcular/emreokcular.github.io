@@ -14,10 +14,10 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 * [Random words twitter bot](/projects/kelimebot.md)
 
 # Stories
-* Coming Soon...
+* Loading...
 
 # Music
-* Coming Soon...
+* [SoundCloud](https://soundcloud.com/emreokcular)
 
 ## Contact Info
 
