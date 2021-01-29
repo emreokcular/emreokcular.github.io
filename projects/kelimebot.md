@@ -10,9 +10,9 @@ In this project a Twitter bot is created. The bot tweets word combinations from 
 
 <https://twitter.com/kelimebot>
 
-All the words from the turkish TDK dictionary is collected with their types.
+All the words from the turkish TDK dictionary is collected with their types. Total number of words is 75547.
 
-Collected tweets were paired with nouns, adjectives, proverbs and verbs.
+Collected words were paired with their types such as nouns, adjectives, proverbs and verbs.
 
 ```
 ab,isim
