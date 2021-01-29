@@ -9,14 +9,14 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 
 # [Resume](/resources/Emre_Okcular-Resume(Dec_2020).pdf)
 
-# Projects and Ideas
+## Projects and Ideas
 * [Analysing optimism in 2020](/projects/2020.md)
 * [Random words twitter bot](/projects/kelimebot.md)
 
-# Stories
+## Stories
 * [Machine Hearts](/stories/machine_hearts.md)
 
-# Music
+## Music
 * [SoundCloud](https://soundcloud.com/emreokcular)
 
 ## Contact Info
