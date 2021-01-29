@@ -6,9 +6,9 @@ Date : January 21st 2021
 
 ![kelimebot](/resources/kelimebot_profile.png)
 
-In this project a Twitter bot is created. This bot tweets word combinations from Turkish dictionary randomly. Even most of the combinations are meaningless sometimes it can tweet meaningful and funny word couples.
+In this project a Twitter bot is created. The bot tweets word combinations from Turkish dictionary randomly. Even most of the combinations are meaningless sometimes it can tweet meaningful and funny word couples.
 
-https://twitter.com/kelimebot
+<https://twitter.com/kelimebot>
 
 All the words from the turkish TDK dictionary is collected with their types.
 
@@ -32,10 +32,24 @@ Abana,isim
 abanabilme,isim
 abanabilmek,fiil
 abandırabilme,isim
-abandırabilmek,fiil
-abandırıverme,isim
-abandırıvermek,fiil
 ...
+züppe,sıfat
+züppece,zarf
+züppeleşme,isim
+züppeleşmek,fiil
+züppeleştirme,isim
+züppeleştirmek,fiil
+züppelik,isim
+zürafa,isim
+zürafagiller,isim
+zürefa,isim
+zürra,isim
+zürriyet,isim
+zürriyetli,sıfat
+zürriyetsiz,sıfat
+zürriyetsizlik,isim
+züyuf,isim
+züyuf akçe,isim
 ```
 
 In the below table, you can see which turkish word pairs and conjunctions are used for random combinations.
@@ -55,7 +69,7 @@ In the below table, you can see which turkish word pairs and conjunctions are us
 
 Here is an example of the timeline.
 
-![kelimebot_timeline](/resources/kelimebot_timeline.png)
+![kelimebot](/resources/keilmebot_timeline.png)
 
 You can check the [github repository](https://github.com/emreokcular/kelimebot) for the source code.
 
