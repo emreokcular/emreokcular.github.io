@@ -11,7 +11,7 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 
 ## Projects and Ideas
 * [Optimism Trend in 2020](/projects/2020.md)
-* [Random words twitter bot](/projects/kelimebot.md)
+* [Random words Twitter bot](/projects/kelimebot.md)
 
 ## Stories
 * [Machine Hearts](/stories/machine_hearts.md)

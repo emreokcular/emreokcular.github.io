@@ -13,7 +13,9 @@ In this project a Twitter bot is created. The bot tweets word combinations from 
 All the words from the turkish TDK dictionary is collected with their types. Total number of words is 75547.
 
 Endpoint : ```https://sozluk.gov.tr/gts```
+
 Example Request : ```https://sozluk.gov.tr/gts?ara=arayış```
+
 Response :
 ```
 [
