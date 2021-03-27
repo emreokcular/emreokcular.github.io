@@ -1,6 +1,6 @@
 <p style="text-align: center;font-size:40px;font-family:Times">EMRE OKCULAR</p>
 
-<center><img src="/resources/emre_kare.jpg" width="40%" and height="40%"></center>
+<center><img src="/resources/emre_kare.jpg" width="35%" and height="35%"></center>
 <br style="line-height: 5px"/>
 <!---Emre Okcular Personal Website
 =======--->
