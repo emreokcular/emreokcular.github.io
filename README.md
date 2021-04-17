@@ -1,6 +1,6 @@
 <p style="text-align: center;font-size:40px;font-family:Times">EMRE OKCULAR</p>
 
-<center><img src="/resources/emre_kare.jpg" width="35%" and height="35%"></center>
+<center><img src="/resources/emre_kare.jpg" width="30%" and height="30%"></center>
 <br style="line-height: 5px"/>
 <!---Emre Okcular Personal Website
 =======--->
@@ -11,7 +11,7 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 
 ## Contact Info
 
-* [E-Mail](mailto:emreokcular@gmail.com)
+* Email : emreokcular@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/emreokcular)
 * [GitHub](https://github.com/emreokcular)
 
