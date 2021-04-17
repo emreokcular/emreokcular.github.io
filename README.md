@@ -9,18 +9,18 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 
 <h3 align="center"><a href="/resources/Emre_Okcular-Resume.pdf">RESUME</a></h3>
 
-## Contact Info
+### Contact Info
 
-* Email : emreokcular@gmail.com
+* [E-Mail : emreokcular@gmail.com](mailto:emreokcular@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/emreokcular)
 * [GitHub](https://github.com/emreokcular)
 
-## Projects and Ideas
+### Projects and Ideas
 * [Optimism Trend in 2020](/projects/2020.md)
 * [Random words Twitter bot](/projects/kelimebot.md)
 
-## Stories
+### Stories
 * [Machine Hearts](/stories/machine_hearts.md)
 
-## Music
+### Music
 * [SoundCloud](https://soundcloud.com/emreokcular)
