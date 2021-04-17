@@ -7,7 +7,7 @@
 
 A result-oriented problem solver and an outgoing teammate with strong communication skills. With mathematical background and more than 3 years of software development experience in streaming analytics, currently pursuing [MS in Data Science](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) at University of San Francisco with a focus on applied ML. Excited to combine real world problems with a deep data science perspective. 
 
-<h3 align="center"><a href="/resources/Emre_Okcular-Resume.pdf">RESUME</a></h3>
+<h2 align="center" ><a href="/resources/Emre_Okcular-Resume.pdf">RESUME</a></h2>
 
 ### Contact Info
 
