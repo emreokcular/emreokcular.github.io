@@ -19,7 +19,7 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 * [Optimism Trend in 2020](/projects/2020.md)
 * [Random words Twitter bot](/projects/kelimebot.md)
 * [Clustering Methods](https://github.com/emreokcular/clustering-methods)
-* [Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer]()
+* [Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer](https://github.com/emreokcular/cancer-detection)
 
 ### Stories
 * [Machine Hearts](/stories/machine_hearts.md)
