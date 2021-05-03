@@ -20,6 +20,13 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 * [Random words Twitter bot](/projects/kelimebot.md)
 * [Clustering Methods](https://github.com/emreokcular/clustering-methods)
 * [Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer](https://github.com/emreokcular/cancer-detection)
+* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular)
+* [Complex Event Processing](https://github.com/emreokcular)
+* [Hyperparameter Tuning in Neural Networks with Ray](https://github.com/emreokcular)
+* [Deploying and serving NN models with Ray](https://github.com/emreokcular)
+
+### Art and AI
+* [Art Made by AI]()
 
 ### Stories
 * [Machine Hearts](/stories/machine_hearts.md)
