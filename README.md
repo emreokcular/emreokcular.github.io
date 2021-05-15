@@ -1,6 +1,6 @@
 <p style="text-align: center;font-size:40px;font-family:Times">EMRE OKCULAR</p>
 
-<p style="text-align: center;font-size:20px;font-family:Times">San Francisco, CA | emreokcular@gmail.com | linkedin.com/in/emreokcular | github.com/emreokcular</p>  
+<p style="text-align: center;font-size:20px;font-family:Times">San Francisco, CA | <a href="#1">emreokcular@gmail.com</a> emreokcular@gmail.com | linkedin.com/in/emreokcular | github.com/emreokcular</p>  
 
 <center><img src="/resources/emre_kare.jpg" width="30%" and height="30%"></center>
 <br style="line-height: 5px"/>
