@@ -1,5 +1,7 @@
 <p style="text-align: center;font-size:40px;font-family:Times">EMRE OKCULAR</p>
 
+### San Francisco, CA | emreokcular@gmail.com | linkedin.com/in/emreokcular | github.com/emreokcular  
+
 <center><img src="/resources/emre_kare.jpg" width="30%" and height="30%"></center>
 <br style="line-height: 5px"/>
 <!---Emre Okcular Personal Website
@@ -20,10 +22,10 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 * [Random words Twitter bot](/projects/kelimebot.md)
 * [Clustering Methods](https://github.com/emreokcular/clustering-methods)
 * [Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer](https://github.com/emreokcular/cancer-detection)
+* [Jeopardy! Topic Modeling](https://github.com/emreokcular/jeopardy-topic-modeling)
 * [Real-time Stream Clustering with DenStream](https://github.com/emreokcular)
-* [Complex Event Processing](https://github.com/emreokcular)
 * [Hyperparameter Tuning in Neural Networks with Ray](https://github.com/emreokcular)
-* [Deploying and serving NN models with Ray](https://github.com/emreokcular)
+<!---* [Deploying and serving NN models with Ray](https://github.com/emreokcular)-->
 
 ### Art and AI
 * [Art Made by AI]()
