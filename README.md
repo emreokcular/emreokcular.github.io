@@ -23,9 +23,7 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 
 ### Art and AI
 * [Art Made by AI]()
-
 ### Stories
 * [Machine Hearts](/stories/machine_hearts.md)
-
 ### Music
 * [SoundCloud](https://soundcloud.com/emreokcular)
