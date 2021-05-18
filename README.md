@@ -30,7 +30,7 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 ### Music
 * [SoundCloud](https://soundcloud.com/emreokcular)
 
-<button rel="stylesheet" href="/css/style.css" class="myButton" onclick="window.location.href='https://bing.com';">RESUME</button>
+<button rel="stylesheet" href="css/style.css" class="myButton" onclick="window.location.href='https://bing.com';">RESUME</button>
 
 <button type="button" class="btn btn-{{include.button_class}} active">{{include.button_name}}</button>
 
@@ -39,3 +39,25 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 
 [Back to top](#)
 
+<style type="text/css">
+#submit {
+background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+#submit:hover {
+ border: none;
+ background-color:#5cbf2a;
+ box-shadow: 0px 0px 1px #777;
+}
+</style>
+
+<button id="submit"  onclick="window.location.href='https://bing.com';">Example Button</button>
