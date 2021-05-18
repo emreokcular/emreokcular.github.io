@@ -9,8 +9,9 @@
 
 A result-oriented problem solver and an outgoing teammate with strong communication skills. With mathematical background and more than 3 years of software development experience in streaming analytics, currently pursuing [MS in Data Science](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) at University of San Francisco with a focus on applied ML. Excited to combine real world problems with a deep data science perspective. 
 
+<!---
 <h2 align="center" style="border-bottom: none" ><a href="/resources/Emre_Okcular-Resume.pdf">RESUME</a></h2>
-
+--->
 <p align="center"> <button id="submit"  onclick="window.location.href='/resources/Emre_Okcular-Resume.pdf';">RESUME</button> </p>
 
 ### Projects and Ideas
@@ -32,14 +33,9 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 ### Music
 * [SoundCloud](https://soundcloud.com/emreokcular)
 
-<button rel="stylesheet" href="css/style.css" class="myButton" onclick="window.location.href='https://bing.com';">RESUME</button>
-
-<button type="button" class="btn btn-{{include.button_class}} active">{{include.button_name}}</button>
-
-<a rel="stylesheet" href="css/style.css" class="myButton">light grey</a>
-
-
 [Back to top](#)
+
+<!--- For HTML button styling-->
 
 <style type="text/css">
 #submit {
@@ -67,5 +63,3 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
  top:1px;
 }
 </style>
-
-<button id="submit"  onclick="window.location.href='https://bing.com';">Example Button</button>
