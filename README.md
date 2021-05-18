@@ -11,6 +11,8 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 
 <h2 align="center" style="border-bottom: none" ><a href="/resources/Emre_Okcular-Resume.pdf">RESUME</a></h2>
 
+<p align="center"> <button id="submit"  onclick="window.location.href='/resources/Emre_Okcular-Resume.pdf';">RESUME</button> </p>
+
 ### Projects and Ideas
 * [Optimism Trend in 2020](/projects/2020.md)
 * [Random words Twitter bot](/projects/kelimebot.md)
@@ -41,22 +43,28 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 
 <style type="text/css">
 #submit {
-background-color:#44c767;
-	border-radius:28px;
-	border:1px solid #18ab29;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;
+ box-shadow:inset 0px 1px 0px 0px #ffffff;
+ background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+ background-color:#f9f9f9;
+ border-radius:5px;
+ border:1px solid #dcdcdc;
+ display:inline-block;
+ cursor:pointer;
+ color:#005ed0;
+ font-family:Arial;
+ font-size:15px;
+ font-weight:bold;
+ padding:10px 24px;
+ text-decoration:none;
+ text-shadow:0px 0px 0px #ffffff;
 }
 #submit:hover {
- border: none;
- background-color:#5cbf2a;
- box-shadow: 0px 0px 1px #777;
+ background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+ background-color:#e9e9e9;
+}
+#submit:active {
+ position:relative;
+ top:1px;
 }
 </style>
 
