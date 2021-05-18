@@ -1,8 +1,9 @@
 # Kelimebot
 
-*AUTHOR*: Emre Okcular
+*Author*: Emre Okcular
 
-Date : January 21st 2021
+Date Created: January 21st 2021
+<!---Date Editted: May 17th 2021-->
 
 ![kelimebot](/resources/kelimebot_profile.png)
 

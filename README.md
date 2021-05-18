@@ -48,9 +48,9 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
  cursor:pointer;
  color:#005ed0;
  font-family:Arial;
- font-size:15px;
+ font-size:20px;
  font-weight:bold;
- padding:10px 24px;
+ padding:12px 24px;
  text-decoration:none;
  text-shadow:0px 0px 0px #ffffff;
 }
