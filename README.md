@@ -17,12 +17,15 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 ### Projects and Ideas
 * [Optimism Trend in 2020](/projects/2020.md)
 * [Random words Twitter bot](/projects/kelimebot.md)
+* [TGIF Analysis](/projects/tgif.md)
 * [Clustering Methods](https://github.com/emreokcular/clustering-methods)
 * [Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer](https://github.com/emreokcular/cancer-detection)
-<!---* [Jeopardy! Topic Modeling](https://github.com/emreokcular/jeopardy-topic-modeling)-->
-<!---* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular)-->
-<!---* [Hyperparameter Tuning in Neural Networks with Ray](https://github.com/emreokcular)-->
-<!---* [Deploying and serving NN models with Ray](https://github.com/emreokcular)-->
+* [Jeopardy! Topic Modeling](https://github.com/emreokcular/jeopardy-topic-modeling)
+* [Hyperparameter Tuning in Neural Networks with Ray](https://github.com/emreokcular)
+<!---
+* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular)
+* [Deploying and serving NN models with Ray](https://github.com/emreokcular)
+-->
 
 ### Art and AI
 * [Art Made by AI]()
