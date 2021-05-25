@@ -15,21 +15,22 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 <p align="center"> <button id="submit"  onclick="window.location.href='/resources/Emre_Okcular-Resume.pdf';">RESUME</button> </p>
 
 ### Projects and Ideas
-* [Optimism Trend in 2020](/projects/2020.md)
-* [Random words Twitter bot](/projects/kelimebot.md)
-* [TGIF Analysis](/projects/tgif.md)
-* [Clustering Methods](https://github.com/emreokcular/clustering-methods)
-* [Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer](https://github.com/emreokcular/cancer-detection)
-* [Jeopardy! Topic Modeling](https://github.com/emreokcular/jeopardy-topic-modeling)
-* [Hyperparameter Tuning in Neural Networks with Ray](https://github.com/emreokcular)
+
+* [TGIF Analysis](/projects/tgif.md) - *May 2021*
+* [Jeopardy! Topic Modeling](https://github.com/emreokcular/jeopardy-topic-modeling) - *May 2021*
+* [Clustering Methods](https://github.com/emreokcular/clustering-methods) *April 2021*
+* [Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer](https://github.com/emreokcular/cancer-detection) - *March 2021*
+* [Hyperparameter Tuning in Neural Networks with Ray](https://github.com/emreokcular) - *March 2021*
+* [Optimism Trend in 2020](/projects/2020.md) - *January 2021*
+* [Random words Twitter bot](/projects/kelimebot.md) *January 2021*
 <!---* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular)-->
 <!---* [Deploying and serving NN models with Ray](https://github.com/emreokcular)-->
 
 ### Art and AI
-* [Art Made by AI]()
+* [Art and AI](/projects/art_and_AI.md)
 
 ### Stories
-* [Machine Hearts](/stories/machine_hearts.md)
+* [Low Joys](/stories/low_joys.md)
 
 ### Music
 * [SoundCloud](https://soundcloud.com/emreokcular)
