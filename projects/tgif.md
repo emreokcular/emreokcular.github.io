@@ -30,4 +30,4 @@ Below you can see the dataset that is scraped.
 
 The basic visualization for retweet and favorite counts looks like below. It is clear that the account became viral in January 2021 and gained followers. There is a dramatic decrease in first weekend of February. Finally, the expectation for the weekends decreased from February to May.
 
-<center><img src="/resources/craig_trend.png" width="50%" and height="50%"></center>
+<center><img src="/resources/craig_trend.png"></center>
