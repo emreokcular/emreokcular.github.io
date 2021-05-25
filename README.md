@@ -18,11 +18,11 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 
 * [TGIF Analysis](/projects/tgif.md) - *May 2021*
 * [Jeopardy! Topic Modeling](https://github.com/emreokcular/jeopardy-topic-modeling) - *May 2021*
-* [Clustering Methods](https://github.com/emreokcular/clustering-methods) *April 2021*
+* [Clustering Methods](https://github.com/emreokcular/clustering-methods) - *April 2021*
 * [Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer](https://github.com/emreokcular/cancer-detection) - *March 2021*
 * [Hyperparameter Tuning in Neural Networks with Ray](https://github.com/emreokcular) - *March 2021*
 * [Optimism Trend in 2020](/projects/2020.md) - *January 2021*
-* [Random words Twitter bot](/projects/kelimebot.md) *January 2021*
+* [Random words Twitter bot](/projects/kelimebot.md) - *January 2021*
 <!---* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular)-->
 <!---* [Deploying and serving NN models with Ray](https://github.com/emreokcular)-->
 
