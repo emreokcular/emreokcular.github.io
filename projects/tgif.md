@@ -8,7 +8,9 @@ Have you ever which weekends is better than the others ? Indeed we always thankf
 
 To answer that questions tweets from the twitter account [@craigweekend](https://twitter.com/craigweekend) collected and analyzed.
 
-![weekend](/resources/craigweekend_profile.png)
+<center><img src="/resources/craigweekend_profile.png" width="30%" and height="30%"></center>
 
-![weekend](/resources/craig.gif)
+This bot account tweets the same video of Daniel Craig announces The Weekend.
+
+<center><img src="/resources/craig.gif" width="30%" and height="30%"></center>
 
