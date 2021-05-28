@@ -141,6 +141,6 @@ Here is an example of the timeline.
 
 ![kelimebot](/resources/keilmebot_timeline.png)
 
-You can check the [github repository](https://github.com/emreokcular/kelimebot) for the source code.
+You can check the [github repository](https://github.com/emreokcular/twitterbots) for the source code.
 
 For future work, more meaningful tweets will be generated with NLP techniques.
