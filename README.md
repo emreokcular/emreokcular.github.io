@@ -26,7 +26,8 @@ A result-oriented problem solver and an outgoing teammate with strong communicat
 <!---* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular)-->
 <!---* [Deploying and serving NN models with Ray](https://github.com/emreokcular)-->
 
-### Art and AI
+### AI
+* [Learning is an extraoordinary experience.](/projects/learning.md)
 * [Art and AI](/projects/art_and_AI.md)
 
 ### Stories
