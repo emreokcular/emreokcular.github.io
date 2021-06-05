@@ -27,7 +27,7 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 <!---* [Deploying and serving NN models with Ray](https://github.com/emreokcular)-->
 
 ### AI
-* [Learning is an extraoordinary experience.](/projects/learning.md)
+* [Learning is an extraordinary experience](/projects/learning.md)
 * [Art and AI](/projects/art_and_AI.md)
 
 ### Stories
