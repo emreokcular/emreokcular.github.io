@@ -3,15 +3,16 @@
 *Author*: Emre Okcular
 
 Date Created: January 21st 2021
-<!---Date Editted: May 17th 2021-->
+
+Date Edited: May 17th 2021
 
 ![kelimebot](/resources/kelimebot_profile.png)
 
-In this project a Twitter bot is created. The bot tweets word combinations from Turkish dictionary randomly. Even most of the combinations are meaningless sometimes it can tweet meaningful and funny word couples.
+In this project a Twitter bot is created with [Tweepy](https://www.tweepy.org/). The bot tweets word combinations from Turkish dictionary randomly. Even some of the combinations are meaningless sometimes it can tweet meaningful and funny word couples.
 
 <https://twitter.com/kelimebot>
 
-All the words from the turkish TDK dictionary is collected with their types. Total number of words is 75547.
+To create a dataset with all Turkish words, all the words from the turkish TDK dictionary is collected with their types. Total number of words is 75547.
 
 Endpoint : ```https://sozluk.gov.tr/gts```
 
@@ -82,7 +83,7 @@ Response :
 ]
 ```
 
-Collected words were paired with their types such as nouns, adjectives, proverbs and verbs.
+The first meaning is selected and collected words were paired with their types such as nouns, adjectives, proverbs and verbs.
 
 ```
 ab,isim
