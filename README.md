@@ -20,7 +20,7 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 * [Jeopardy! Topic Modeling](https://github.com/emreokcular/jeopardy-topic-modeling) - *May 2021*
 * [Clustering Methods](https://github.com/emreokcular/clustering-methods) - *April 2021*
 * [Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer](https://github.com/emreokcular/cancer-detection) - *March 2021*
-<!---* [Hyperparameter Tuning in Neural Networks with Ray](https://github.com/emreokcular) - *March 2021*-->
+<!---* [Hyperparameter Tuning in Neural Networks with Ray Tune](/projects/tuning_with_ray.md) - *March 2021*-->
 * [Optimism Trend in 2020](/projects/2020.md) - *January 2021*
 * [Random words Twitter bot](/projects/kelimebot.md) - *January 2021*
 <!---* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular)-->
@@ -28,6 +28,7 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 
 ### AI
 * [Learning is an extraordinary experience](/projects/learning.md)
+* [Deep Learning: From Perceptron to Black Box](/projects/deep_learning.md)
 * [Art and AI](/projects/art_and_AI.md)
 
 ### Stories
