@@ -4,7 +4,9 @@ Author : *Emre Okcular*
 
 Date : June 7st 2021
 
-In this post, we will take a closer look at hyperparameters of a deep neural network such as listed below. Moreover, we will cover how to tune these parameters similar approach with scikit-learn GridSearch. [Ray Tune](https://docs.ray.io/en/master/tune/index.html) package is a Python library for experiment execution and hyperparameter tuning at any scale.
+![5percent](/resources/mixer.jpg)
+
+In this post, we will take a closer look at hyperparameters of a deep neural network listed below. Moreover, we will cover how to tune these parameters similar approach with scikit-learn GridSearch. [Ray Tune](https://docs.ray.io/en/master/tune/index.html) package is a Python library for experiment execution and hyperparameter tuning at any scale.
 
 * Learning Rate
 * Batch Size
