@@ -14,7 +14,7 @@ As human beings, we learn from data continuously. We have been collecting, stori
 <center>A: Hippocampal mouse neuron studded with synaptic connections (yellow), Lisa Boulanger B: Cosmic web ,Springel et al., 2005</center>
 <br><br/>
 
-In 1958, american psychologist and computer scientist [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt) published the paper [THE PERCEPTRON: A PROBABILISTIC MODEL FOR INFORMATION STORAGE AND ORGANIZATION IN THE BRAIN](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.3398&rep=rep1&type=pdf) in Cornell Psychological Review. This is considered as the first mathematical model and core structure of modern deep learning models which is basically a mathematical model inspired by brain neurons.
+In 1958, american psychologist and computer scientist [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt) published the paper [THE PERCEPTRON: A PROBABILISTIC MODEL FOR INFORMATION STORAGE AND ORGANIZATION IN THE BRAIN](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.3398&rep=rep1&type=pdf) in Cornell Psychological Review. This is considered as the first model and core structure of modern deep learning models which is basically a mathematical model inspired by brain neurons.
 
 <center><img src="/resources/perceptron.jpeg" width="60%" ></center>
 
