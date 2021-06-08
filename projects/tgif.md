@@ -6,7 +6,7 @@ Date Created: Mat 21st 2021
 
 <center><img src="/resources/weekend_loading.jpeg" width="50%" and height="50%"></center>
 
-Have you ever wonder which weekend is better than the others ? Indeed we always thankful for the friday but is it true that we wait some weekends more than the others ? Might be a seasonal trend about our weekend expectations ? Any difference between locations ? How did the trend of Positive and negative thoughts change about the weekends ?
+Have you ever wonder which weekend is better than the others ? Indeed we always thankful for the friday but is it true that we wait some weekends more than the others ? Might be a seasonal trend about our weekend expectations ? Any difference between locations ? How did the trend of positive and negative thoughts about the weekends change over a year ?
 
 To answer all that questions, tweets from the twitter account [@craigweekend](https://twitter.com/craigweekend) collected and analyzed.
 
@@ -33,3 +33,5 @@ The basic visualization for retweet and favorite counts looks like below. It is 
 <center><img src="/resources/craig_trend.png"></center>
 
 Now, lets take a look at replies for each tweet.
+
+Loading...
