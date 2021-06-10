@@ -24,7 +24,7 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 * [Hyperparameter Tuning in Neural Networks with Ray Tune](/projects/raytune.md) - *March 2021*
 * [Ad Click Prediction with KDD Cup Dataset](https://github.com/emreokcular/click-prediction) - *February 2021*
 * [Optimism Trend during Covid Despair in 2020](/projects/2020.md) - *January 2021*
-* [Random words Twitter bot](/projects/kelimebot.md) - *January 2021*
+* [Random Words Twitter Bot](/projects/kelimebot.md) - *January 2021*
 <!---* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular)-->
 <!---* [Deploying and serving NN models with Ray](https://github.com/emreokcular)-->
 
