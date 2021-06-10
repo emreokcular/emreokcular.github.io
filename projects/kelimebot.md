@@ -1,4 +1,4 @@
-# Kelimebot
+# Random Words Twitter Bot
 
 *Author*: Emre Okcular
 
