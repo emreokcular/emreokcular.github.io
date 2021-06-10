@@ -21,7 +21,7 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 * [Clustering Methods](https://github.com/emreokcular/clustering-methods) - *April 2021*
 * [ML algorithm implementations from scratch in Python](/projects/implementations.md) - *April 2021*
 * [Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer](https://github.com/emreokcular/cancer-detection) - *March 2021*
-* [Hyperparameter Tuning in Neural Networks with Ray Tune](/projects/tuning_with_ray.md) - *March 2021*
+* [Hyperparameter Tuning in Neural Networks with Ray Tune](/projects/raytune.md) - *March 2021*
 * [Ad Click Prediction with KDD Cup Dataset](https://github.com/emreokcular/click-prediction) - *February 2021*
 * [Optimism Trend during Covid Despair in 2020](/projects/2020.md) - *January 2021*
 * [Random words Twitter bot](/projects/kelimebot.md) - *January 2021*

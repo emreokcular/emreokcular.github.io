@@ -280,7 +280,7 @@ analysis.dataframe().to_csv("df_ep_100.csv")
 
 For example, you can draw accuracy and loss graphs using this data.
 
-<center><img src="/resources/acc_val.png" width="50%" and height="50%"></center>
+<center><img src="/resources/acc_val.png" width="50%"></center>
 
 #### Loading old Results
 
