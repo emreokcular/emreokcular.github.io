@@ -1,5 +1,35 @@
 # ML algorithm implementations from scratch in Python
 
-I have implemented regularized Linear and Logistic Regression with Gradient Descent, Naive Bayes, Decision Trees, Random Forest, K-means Clustering, Boosting, Deep Neural Networks, CNN, RNN, recommendation engine, feature importance, and automated feature selection algorithms during my data science journey at . Codes will be provided upon request.
+I have studied and implemented below machine learning algorihtms as partial fulfillment of the [MS in Data Science degree at the University of San Francisco]((https://www.usfca.edu/arts-sciences/graduate-programs/data-science)). 
 
-<a href="mailto:emreokcular@gmail.com">emreokcular@gmail.com</a> 
+Codes are in private repos because of the academic integrity and will be provided upon request.
+
+E-mail : <a href="mailto:emreokcular@gmail.com">emreokcular@gmail.com</a> 
+
+1. Linear Models
+    * Linear Regression with Gradient Descent (L1 and L2 Regularization)
+    * Logistic Regression with Gradient Descent (L1 and L2 Regularization)
+2. Naive Bayes
+    * TF-IDF
+3. Decision Trees
+4. Random Forest
+5. K-Means and K-means++ Clustering
+6. Boosting
+    * AdaBoost
+    * Gradient Boosting with MSE
+    * Gradient Boosting with PyTorch Neural Network
+7. Recommendation Engine
+    * Matrix Factorization
+8. Neural Networks with PyTorch
+    * Deep Neural Network
+<!--* CNN -->
+<!--* RNN -->
+9. NLP
+    * Named Entity Recognition with PyTorch Sliding Window NN
+    * Continuous Bag of Words
+10. Feature Importance and Selection
+    * Spearman's rank correlation coefficient
+    * minimal-redundancy-maximal-relevance (mRMR)
+    * permutation importance
+    * drop column importance
+    * Automatic feature selection algorithm
