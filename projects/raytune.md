@@ -4,7 +4,7 @@ Author : *Emre Okcular*
 
 Date : June 7st 2021
 
-<center><img src="/resources/mixer.jpg" width="80%"></center>
+<center><img src="/resources/mixer.jpg" width="70%"></center>
 
 In this post, we will take a closer look at hyperparameters of a deep neural network listed below. Moreover, we will cover how to tune these parameters similar approach with scikit-learn GridSearch. [Ray Tune](https://docs.ray.io/en/master/tune/index.html) package is a Python library for experiment execution and hyperparameter tuning at any scale.
 
@@ -300,6 +300,8 @@ If you want to take a look at previous tuning analysis you can load with below m
 ```
 analysis2 = Analysis("/Users/emre/ray_results/train_cancer_2021-05-01_22-32-12")
 ```
+
+#### Conclusion
 
 To wrap up, hyperparameter tuning in neural networks is an exhaustive search with lots of time and CPU power. Be careful with the parameter space that you used. It may give you the best parameters in somewhere in the parameter space which are not related with the exact solution.
 
