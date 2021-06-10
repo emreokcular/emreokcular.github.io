@@ -24,9 +24,11 @@ Learnin rate is the most important hyper-parameter to tune for training neural n
 Dropout is a regularization technique that prevents overfitting in neural networks. At each training stage (batch), individual nodes are either dropped out of the net with probability p or kept with probability 1-p, so that a reduced network is left. 
 
 **Training Phase**
+
 For each hidden layer, for each training sample, for each iteration, ignore (zero out) a random fraction, p, of nodes (and corresponding activations).
 
 **Testing Phase**
+
 Use all activations, but reduce them by a factor 1-p (to account for the missing activations during training).
 
 Neural networks learn co-adaptations of hidden units that work for the training data but do not generalize to unseen data.Random dropout breaks up co-adaptations making the presence of any particular hidden unit unreliable.

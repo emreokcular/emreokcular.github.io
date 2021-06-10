@@ -19,7 +19,7 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 * [TGIF Analysis on Twitter](/projects/tgif.md) - *May 2021*
 * [Jeopardy! Topic Modeling](https://github.com/emreokcular/jeopardy-topic-modeling) - *May 2021*
 * [Clustering Methods](https://github.com/emreokcular/clustering-methods) - *April 2021*
-* [ML algorithm implementations from scratch in Python](/projects/implementations.md) - *April 2021*
+<!--* [ML algorithm implementations from scratch in Python](/projects/implementations.md) - *April 2021*-->
 * [Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer](https://github.com/emreokcular/cancer-detection) - *March 2021*
 * [Hyperparameter Tuning in Neural Networks with Ray Tune](/projects/raytune.md) - *March 2021*
 * [Ad Click Prediction with KDD Cup Dataset](https://github.com/emreokcular/click-prediction) - *February 2021*
