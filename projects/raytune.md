@@ -55,7 +55,7 @@ While tuning these parameters manually, you might feel like a gradient decent in
 
 We will import below packages from PyTorch and Ray.
 
-```
+```python
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -68,7 +68,7 @@ from ray.tune import Analysis # For analyzing tuning results.
 Let use a simple NN model architecture with one layer, dropout, ReLU activation function and batchnorm. 
 
 ### Model Architecture
-```
+```python
 class MulticlassClassification(nn.Module):
     def __init__(self, num_feature, num_class,d,M):
         super(MulticlassClassification, self).__init__()
@@ -93,7 +93,7 @@ class MulticlassClassification(nn.Module):
 
 To use tuning method we need to convert our training code to a function and add ```tune.report(training_accuracy=train_epoch_acc/len(train_loader),val_accuracy=val_epoch_acc/len(val_loader),training_loss=train_epoch_loss/len(train_loader),val_loss=val_epoch_loss/len(val_loader)``` to our training loop to store the metrics for each epoch.
 
-```
+```python
 def train(model,optimizer,train_loader,val_loader,EPOCHS,accuracy_stats,loss_stats):
     for e in tqdm(range(1, EPOCHS+1)):
         train_epoch_loss = 0
@@ -141,7 +141,7 @@ def train(model,optimizer,train_loader,val_loader,EPOCHS,accuracy_stats,loss_sta
     return accuracy_stats
 ```
 
-```
+```python
 def get_loaders():
     df = pd.read_csv("/Users/emre/Dev/GitHub/train_ml2_2021.csv")
     y=df['target']
@@ -185,7 +185,7 @@ def get_loaders():
 
 Finally, we will use train function to wrap all the helpers.
 
-```
+```python
 def train(config):
     test = []
     accuracy_stats = {
@@ -208,7 +208,7 @@ def train(config):
 
 Before hyperparameter search we need to specify the search space in a dictionary.
 
-```
+```python
 param_space = {"lr": tune.grid_search([0.00003,0.0005, 0.001, 0.0007]), # Learning Rate
                "bs": tune.grid_search([8, 16, 32,64, 128 , 256,512]), # Batch Size
                "dr": tune.grid_search([0.3, 0.5,0.7,0.85]), # Dropout
@@ -218,7 +218,9 @@ param_space = {"lr": tune.grid_search([0.00003,0.0005, 0.001, 0.0007]), # Learni
 
 When we run below method it will start to search parameter space by creatgin folders in the root library.
 
-```analysis = tune.run(train, config=param_space,verbose=1, name="epoch_"+str(EPOCH_FOR_TUNING))```
+```python 
+analysis = tune.run(train, config=param_space,verbose=1, name="epoch_"+str(EPOCH_FOR_TUNING))
+```
 
 You can see the folders in the path ```/Users/emre/ray_results/epoch_300``` Here ```epoch_300``` is the name for tuning process we specified above in the run() method.
 
@@ -265,10 +267,10 @@ Lets take a look at one of the folder.
 You can find NN parameters, weights, model as pkl object, and logs.
 
 
-```
+```python
 print("Best config: ", analysis.get_best_config(mode ="max" ,metric="val_accuracy"))
 ```
-```
+```python
 Best config:  {'lr': 0.0005, 'bs': 128, 'dr': 0.3, 'm': 300, 'wd': 0}
 ```
 
@@ -287,7 +289,7 @@ Best config:  {'lr': 0.0005, 'bs': 128, 'dr': 0.3, 'm': 300, 'wd': 0}
 
 You can save the results as a dataframe.
 
-```
+```python
 analysis.dataframe().to_csv("df_ep_100.csv")
 ```
 
@@ -299,7 +301,7 @@ For example, you can draw accuracy and loss graphs using this data.
 
 If you want to take a look at previous tuning analysis you can load with below method.
 
-```
+```python
 analysis2 = Analysis("/Users/emre/ray_results/train_cancer_2021-05-01_22-32-12")
 ```
 
