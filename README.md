@@ -1,4 +1,4 @@
-<head><meta property="og:image" content="https://www.okcular.com.tr/resources/image.png"></head>
+<html><head><meta property="og:image" content="https://www.okcular.com.tr/resources/image.png"></head></html>
 
 <p style="text-align: center;font-size:40px;font-family:Times">EMRE OKCULAR</p>
 
