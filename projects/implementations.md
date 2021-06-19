@@ -12,9 +12,9 @@ You can also check the collection of useful [Data Science helper functions](http
     * Linear Regression with Gradient Descent (L1 and L2 Regularization)
     * Logistic Regression with Gradient Descent (L1 and L2 Regularization)
 2. **Naive Bayes**
-    * TF-IDF
 3. **Decision Trees**
 4. **Random Forest**
+    * Bootstrapping
 5. **Clustering**
     * K-Means
     * K-means++
