@@ -1,3 +1,5 @@
+<meta property="og:image" content="/resources/favicon.png">
+
 <p style="text-align: center;font-size:40px;font-family:Times">EMRE OKCULAR</p>
 
 <p style="text-align: center;font-size:20px;font-family:Times"><img src="pin.png" width="20" height="20" alt="linkedin">San Francisco, CA | <a href="mailto:emreokcular@gmail.com"><img src="email.jpg" height="17" alt="linkedin"> emreokcular@gmail.com</a> | <img src="linkedin.jpg" width="20" height="20" alt="linkedin"> <a href="https://www.linkedin.com/in/emreokcular">linkedin.com/in/emreokcular</a> | <img src="github.png" width="20" height="20" alt="github"> <a href="https://www.github.com/emreokcular">github.com/emreokcular</a> </p>  
