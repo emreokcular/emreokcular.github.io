@@ -1,4 +1,4 @@
-<meta property="og:image" content="/resources/favicon.png">
+<meta property="og:image" content="https://www.okcular.com.tr/resources/favicon.png">
 
 <p style="text-align: center;font-size:40px;font-family:Times">EMRE OKCULAR</p>
 
