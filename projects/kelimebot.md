@@ -145,3 +145,5 @@ Here is an example of the timeline.
 You can check the [github repository](https://github.com/emreokcular/twitterbots) for the source code.
 
 For future work, more meaningful tweets will be generated with NLP techniques.
+
+[Back to top](#)

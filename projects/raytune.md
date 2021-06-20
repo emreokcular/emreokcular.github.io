@@ -310,3 +310,5 @@ analysis2 = Analysis("/Users/emre/ray_results/train_cancer_2021-05-01_22-32-12")
 To wrap up, hyperparameter tuning in neural networks is an exhaustive search with lots of time and CPU power. Be careful with the parameter space that you used. It may give you the best parameters in somewhere in the parameter space which are not related with the exact solution.
 
 Thank you for reading.
+
+[Back to top](#)

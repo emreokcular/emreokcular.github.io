@@ -40,13 +40,15 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 ### AI
 * [Learning is an extraordinary experience](/projects/learning.md)
 * [Deep Learning: From Perceptron to Black Box](/projects/deep_learning.md)
-* [Art and AI](/projects/art_and_AI.md)
+* [Art and AI: Creative Machines](/projects/art_and_AI.md)
 
 ### Stories
 * [Low Joys](/stories/low_joys.md)
 
 ### Music
 * [SoundCloud](https://soundcloud.com/emreokcular)
+* [Synthesizers and Synthwave]()
+* [MIDI Keyboard Learning Journey]()
 
 [Back to top](#)
 
