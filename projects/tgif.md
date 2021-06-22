@@ -2,7 +2,7 @@
 
 *Author*: Emre Okcular
 
-Date Created: Mat 21st 2021
+Date Created: June 20st 2021
 
 <center><img src="/resources/weekend_loading.jpeg" width="50%" and height="50%"></center>
 
