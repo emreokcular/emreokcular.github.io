@@ -1,3 +1,4 @@
+<!--- Meta tags for url preview-->
 <head>
     <meta property="og:type" content="website">
     <meta name="image" property="og:image" content="https://www.okcular.com.tr/resources/image.png">
@@ -21,8 +22,8 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 
 ### Projects and Ideas
 
-* [Random Words Twitter Bot](/projects/kelimebot.md) - *January 2021*
 * [Optimism Trend during Covid Despair in 2020](/projects/2020.md) - *January 2021*
+* [Random Words Twitter Bot](/projects/kelimebot.md) - *January 2021*
 * [Ad Click Prediction with KDD Cup Dataset](https://github.com/emreokcular/click-prediction) - *February 2021*
 * [Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer](https://github.com/emreokcular/cancer-detection) - *March 2021*
 * [Hyperparameter Tuning in Neural Networks with Ray Tune](/projects/raytune.md) - *March 2021*
