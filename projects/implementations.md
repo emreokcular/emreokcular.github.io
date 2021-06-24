@@ -6,8 +6,6 @@ Codes are in private repos because of the academic integrity and will be provide
 
 E-mail : <a href="mailto:emreokcular@gmail.com">emreokcular@gmail.com</a> 
 
-You can also check the collection of useful [Data Science helper functions](https://github.com/emreokcular/data-science-helpers) and packages that I used in my Data Science projects.
-
 1. **Linear Models**
     * Linear Regression with Gradient Descent (L1 and L2 Regularization)
     * Logistic Regression with Gradient Descent (L1 and L2 Regularization)
@@ -37,3 +35,5 @@ You can also check the collection of useful [Data Science helper functions](http
     * permutation importance
     * drop column importance
     * Automatic feature selection algorithm
+
+You can also check the collection of useful [Data Science helper functions](https://github.com/emreokcular/data-science-helpers) and packages that I used in my Data Science journey.
