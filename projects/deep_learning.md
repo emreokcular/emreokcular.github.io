@@ -8,6 +8,8 @@ Date : June 4th 2021
 
 Scientists and inventors study the characteristics of things in nature and come up with amazing technologies and products invented as a result of exploring nature—for example, flights, submarines, bullet trains, flippers, and cat eyes. Moreover, we can also list Neural Networks and Genetic Algorithms as an example of bio-inspired algorithms. In this post, we will take a closer look at the evolution of neural networks from a philosophical perspective. We will be fascinated by the development of this biomimicry approach as a simple mathematical model into a most complex artificial neural network identified as a black-box algorithm.
 
+<center><img src="/resources/deep_learning_timeline.jpg" width="50%" ></center>
+
 As human beings, we learn from data continuously. We have been collecting, storing and processing data since the moment we were born. These amazing processes happen in a marvelous supercomputer, which is the most complex machine on earth: the human brain. Beyond that, even it is so exciting in itself, I am enthralled by a blend of science, technology and mathematics. Deep Learning stands right there. We are in a new era so that we do not program computers how to do, we teach them how to learn.
 
 <center><img src="/resources/brain_vs_universe.jpg" width="70%" and height="70%"></center>
