@@ -32,6 +32,7 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 * [Jeopardy! Topic Modeling](https://github.com/emreokcular/jeopardy-topic-modeling) - *May 2021*
 * [ML algorithm implementations from scratch in Python](/projects/implementations.md) - *May 2021*
 * [TGIF Analysis on Twitter](/projects/tgif.md) - *June 2021*
+* [Chicago Train Daily Rider Prediction](https://github.com/emreokcular/chicago-trains) - *July 2021*
 
 <!-- TODO -->
 <!---* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular) -->
