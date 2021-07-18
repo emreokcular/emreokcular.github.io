@@ -36,4 +36,4 @@ E-mail : <a href="mailto:emreokcular@gmail.com">emreokcular@gmail.com</a>
     * drop column importance
     * Automatic feature selection algorithm
 
-You can also check the collection of useful [Data Science helper functions](https://github.com/emreokcular/data-science-helpers) and packages that I used in my Data Science journeyt.
+You can also check the collection of useful [Data Science helper functions](https://github.com/emreokcular/data-science-helpers) and packages that I used in my Data Science journey.
