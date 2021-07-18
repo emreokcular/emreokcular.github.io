@@ -48,8 +48,9 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 
 ### Music
 * [SoundCloud](https://soundcloud.com/emreokcular)
+<!---
 * [Synthesizers and Synthwave]()
-* [MIDI Keyboard Learning Journey]()
+* [MIDI Keyboard Learning Journey]()--->
 
 [Back to top](#)
 
