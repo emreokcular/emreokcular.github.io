@@ -38,7 +38,7 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 <!---* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular) -->
 <!---* [Deploying and serving NN models with Ray](https://github.com/emreokcular) -->
 
-### AI
+### Deep Learning
 * [Learning is an extraordinary experience](/projects/learning.md)
 * [Deep Learning: From Perceptron to Black Box](/projects/deep_learning.md)
 * [Art and AI: Creative Machines](/projects/art_and_AI.md)
