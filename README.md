@@ -33,7 +33,7 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 * [ML algorithm implementations from scratch in Python](/projects/implementations.md) - *May 2021*
 * [TGIF Analysis on Twitter](/projects/tgif.md) - *June 2021*
 * [Chicago Metro Daily Rider Prediction](https://github.com/emreokcular/chicago-trains) - *July 2021*
-* [Textile Defect Fabric Detection](https://github.com/emreokcular/textile-defect-detection) - *August 2021*
+* [Fabric Defect Detection with Deep Learning](https://github.com/emreokcular/textile-defect-detection) - *August 2021*
 
 <!-- TODO -->
 <!---* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular) -->
