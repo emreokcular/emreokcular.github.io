@@ -13,7 +13,9 @@
 <!---Emre Okcular Personal Website
 =======--->
 
-A lifelong learner, curious problem solver, and outgoing teammate with strong communication skills. With a solid mathematical background and more than 3 years of software engineering experience in real-time streaming analytics, currently pursuing [MS in Data Science](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) at University of San Francisco with a focus on applied ML. Excited to combine real world problems with a deep data science perspective. 
+A lifelong learner, curious problem solver, and outgoing teammate with strong communication skills. With a solid mathematical background and three years of software and data engineering experience in real-time streaming analytics, recently graduated from [MS in Data Science](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) at the University of San Francisco with a focus on applied machine learning. Fluent in Python, PyTorch, Java, and SQL with production-level experience.
+
+Currently, as a Senior Data Scientist, solving real-world problems from a wide variety of business domains with deep data science and engineering perspective.
 
 <!---
 <h2 align="center" style="border-bottom: none" ><a href="/resources/Emre_Okcular-Resume.pdf">RESUME</a></h2>
