@@ -36,6 +36,7 @@ Currently, as a Senior Data Scientist, solving real-world problems from a wide v
 * [TGIF Analysis on Twitter](/projects/tgif.md) - *June 2021*
 * [Chicago Metro Daily Rider Prediction](https://github.com/emreokcular/chicago-trains) - *July 2021*
 * [Fabric Defect Detection with Deep Learning](https://github.com/emreokcular/textile-defect-detection) - *August 2021*
+* [Turkish Song Lyrics Analysis with NLP and Song Generation with Deep Learning](/projects/turkish_lyrics.md) - *October 2021*
 
 <!-- TODO -->
 <!---* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular) -->
