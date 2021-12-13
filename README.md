@@ -49,12 +49,12 @@ Currently, as a Senior Data Scientist, solving real-world problems from a wide v
 * [NYU Deep Learning Course](/projects/nyu_dl.md)
 
 ### Stories
-* [Low Joys](/stories/low_joys.md)
+* [Tech Noir](/stories/tech_noir.md)
 
 ### Music
 * [SoundCloud](https://soundcloud.com/emreokcular)
-<!---* [Synthesizers and Synthwave]()--->
-<!---* [MIDI Keyboard Learning Journey]()--->
+* [Synthesizers and Synthwave]()
+* [MIDI Keyboard Learning Journey with Ableton Live]()
 
 [Back to top](#)
 
