@@ -48,6 +48,9 @@ Currently, as a Senior Data Scientist, solving real-world problems from a wide v
 * [Art and AI: Creative Machines](/projects/art_and_AI.md)
 * [NYU Deep Learning Course](/projects/nyu_dl.md)
 
+### 📚  Books
+* [Book Lists](/art/books.md)
+
 ### 🖊️  Stories
 * [Tech Noir](/stories/tech_noir.md)
 * [Random Access Memories]()
@@ -56,9 +59,6 @@ Currently, as a Senior Data Scientist, solving real-world problems from a wide v
 * [SoundCloud](https://soundcloud.com/emreokcular)
 * [Synthesizers and Synthwave]()
 * [MIDI Keyboard Learning Journey with Ableton Live]()
-
-### 📚  Books
-* [Books Lists](/art/books.md)
 
 ### 🎨  Art
 * [The Collection](/art/the_collection.md)

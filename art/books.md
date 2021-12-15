@@ -23,8 +23,6 @@
 * A Short History of Philosophy - Nigel Warburton
 * The Defining Decade - Meg Jay
 * Incognito - David Eagleman 
-* The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness - Morgan Housel
-* A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing - Burton G. Malkiel
 * Talking to Strangers - Malcolm Gladwell
 * Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions - Dan Ariely
 * How To Win Friends And Influence People - Dale Carnegie
@@ -48,6 +46,8 @@
 
 ### Investing and Finance:
 
-* The Richest Man in Babylon - George Samuel Clason
 * Rich Dad Poor Dad - Robert T. Kiyosaki
+* The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness - Morgan Housel
+* A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing - Burton G. Malkiel
+* The Richest Man in Babylon - George Samuel Clason
 * The Intelligent Investor - Benjamin Graham & Jason Zweig & Warren E. Buffett
