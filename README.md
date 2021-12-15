@@ -22,7 +22,7 @@ Currently, as a Senior Data Scientist, solving real-world problems from a wide v
 --->
 <p align="center"> <button id="submit"  onclick="window.location.href='/resources/Emre_Okcular-Resume.pdf';">RESUME</button> </p>
 
-### 💡 Projects and Ideas
+### 💡  Projects and Ideas
 
 * [Optimism Trend during Covid Despair in 2020](/projects/2020.md) - *January 2021*
 * [Random Words Twitter Bot](/projects/kelimebot.md) - *January 2021*
@@ -42,25 +42,25 @@ Currently, as a Senior Data Scientist, solving real-world problems from a wide v
 <!---* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular) -->
 <!---* [Deploying and serving NN models with Ray](https://github.com/emreokcular) -->
 
-### 🧠 Deep Learning
+### 🧠  Deep Learning
 * [Learning is an extraordinary experience](/projects/learning.md)
 * [Deep Learning: From Perceptron to Black Box](/projects/deep_learning.md)
 * [Art and AI: Creative Machines](/projects/art_and_AI.md)
 * [NYU Deep Learning Course](/projects/nyu_dl.md)
 
-### 🖊️ Stories
+### 🖊️  Stories
 * [Tech Noir](/stories/tech_noir.md)
 * [Random Access Memories]()
 
-### 🎹 Music
+### 🎹  Music
 * [SoundCloud](https://soundcloud.com/emreokcular)
 * [Synthesizers and Synthwave]()
 * [MIDI Keyboard Learning Journey with Ableton Live]()
 
-### 📚 Books
+### 📚  Books
 * [Books Lists](/art/books.md)
 
-### 🎨 Art
+### 🎨  Art
 * [The Collection](/art/the_collection.md)
 
 
