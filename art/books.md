@@ -51,3 +51,11 @@
 * A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing - Burton G. Malkiel
 * The Richest Man in Babylon - George Samuel Clason
 * The Intelligent Investor - Benjamin Graham & Jason Zweig & Warren E. Buffett
+
+### Technical:
+
+* Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD - Jeremy Howard
+* Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps - Valliappa Lakshmanan
+* Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI - Shlomo Kashani
+* Probabilistic Machine Learning: An Introduction - Kevin Patrick Murphy
+* Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann
