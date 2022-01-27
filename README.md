@@ -48,6 +48,11 @@ Currently, as a Senior Data Scientist and Machine Learning Engineer, solving rea
 * [Art and AI: Creative Machines](/projects/art_and_AI.md)
 * [NYU Deep Learning Course](/projects/nyu_dl.md)
 
+### 💾  Datasets
+* [Turkish Song Lyrics](https://www.kaggle.com/emreokcular/turkish-song-lyrics)
+* [Turkish Folk Song Lyrics](https://www.kaggle.com/emreokcular/turkish-folk-song-lyrics)
+* [Turkish Poems](https://www.kaggle.com/emreokcular/turkish-poems)
+
 ### 📚  Books
 * [Book Lists](/art/books.md)
 
