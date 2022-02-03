@@ -68,6 +68,8 @@ Currently, as a Senior Data Scientist and Machine Learning Engineer, solving rea
 ### 🎨  Art
 * [The Collection](/art/the_collection.md)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.okcular.com.tr&count_bg=%23FFFFFF&title_bg=%23FFFFFF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 [Back to top](#)
 
 <!--- For HTML button styling-->
