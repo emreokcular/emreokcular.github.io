@@ -68,7 +68,6 @@ Currently, as a Senior Data Scientist and Machine Learning Engineer, solving rea
 ### 🎨  Art
 * [The Collection](/art/the_collection.md)
 
-
 [Back to top](#)
 
 <!--- For HTML button styling-->

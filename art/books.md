@@ -43,6 +43,10 @@
 * Fahrenheit 451 - Ray Bradbury
 * Foundation - Isaac Asimov
 * Brave New World - Aldous Huxley
+* Solaris - Stanislaw Lem
+* Hyperion - Dan Simmons
+* Snow Crash - Neal Stephenson
+* The Three-Body Problem - Liu Cixin
 
 ### Investing and Finance:
 
