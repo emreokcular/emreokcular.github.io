@@ -49,16 +49,20 @@ Currently, as a Senior Data Scientist and Machine Learning Engineer, solving rea
 * [NYU Deep Learning Course](/projects/nyu_dl.md)
 
 ### 💾  Datasets
-* [Turkish Song Lyrics](https://www.kaggle.com/emreokcular/turkish-song-lyrics)
-* [Turkish Folk Song Lyrics](https://www.kaggle.com/emreokcular/turkish-folk-song-lyrics)
-* [Turkish Poems](https://www.kaggle.com/emreokcular/turkish-poems)
+* [Popular Song Lyrics](https://www.kaggle.com/emreokcular/turkish-song-lyrics)
+* [Folk Song Lyrics](https://www.kaggle.com/emreokcular/turkish-folk-song-lyrics)
+* [Poems](https://www.kaggle.com/emreokcular/turkish-poems)
+* [Turkish TV Series]()
+* [TV Series Posters]()
+* [Turkish Movies]()
+* [Turkish Movie Posters]()
 
 ### 📚  Books
 * [Book Lists](/art/books.md)
 
 ### 🖊️  Stories
 * [Tech Noir](/stories/tech_noir.md)
-* [Random Access Memories]()
+* [Random Access Memories](/stories/random_access_memories.md)
 
 ### 🎹  Music
 * [SoundCloud](https://soundcloud.com/emreokcular)
