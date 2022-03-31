@@ -52,10 +52,10 @@ Currently, as a Senior Data Scientist and Machine Learning Engineer, solving rea
 * [Popular Song Lyrics](https://www.kaggle.com/emreokcular/turkish-song-lyrics)
 * [Folk Song Lyrics](https://www.kaggle.com/emreokcular/turkish-folk-song-lyrics)
 * [Poems](https://www.kaggle.com/emreokcular/turkish-poems)
-* [Turkish TV Series]()
-* [TV Series Posters]()
-* [Turkish Movies]()
-* [Turkish Movie Posters]()
+* [TV Series](https://www.kaggle.com/datasets/emreokcular/turkish-tv-series)
+* [TV Series with Posters](https://www.kaggle.com/emreokcular/turkish-tv-series-with-posters)
+* [Movies]()
+* [Movies with Posters]()
 
 ### 📚  Books
 * [Book Lists](/art/books.md)
