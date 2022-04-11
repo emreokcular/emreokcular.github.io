@@ -47,6 +47,7 @@ Currently, as a Senior Data Scientist and Machine Learning Engineer, solving rea
 * [Deep Learning: From Perceptron to Black Box](/projects/deep_learning.md)
 * [Art and AI: Creative Machines](/projects/art_and_AI.md)
 * [NYU Deep Learning Course](/projects/nyu_dl.md)
+* [Global Data Science Challenge - Using AI to Help Eliminate River Blindness]()
 
 ### 💾  Datasets
 * [Popular Song Lyrics](https://www.kaggle.com/emreokcular/turkish-song-lyrics)

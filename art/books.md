@@ -32,6 +32,9 @@
 * 12 Rules for Life - Jordan Peterson
 * The Happiness Trap - Harris, Russ
 * Why We Sleep: Unlocking the Power of Sleep and Dreams - Matthew Walker
+* Hooked: How to Build Habit-Forming Products - Nir Eyal
+* The Intelligence Trap: Why Smart People Do Stupid Things and How to Make Wiser Decisions - David Robson
+* God for the 21st Century - Russel Stannard
 
 ### Sci-Fi:
 
@@ -47,6 +50,7 @@
 * Hyperion - Dan Simmons
 * Snow Crash - Neal Stephenson
 * The Three-Body Problem - Liu Cixin
+* Suicide and Contemporary Science Fiction - Carlos Gutiérrez-Jones
 
 ### Investing and Finance:
 
