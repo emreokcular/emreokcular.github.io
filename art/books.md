@@ -51,6 +51,7 @@
 * Snow Crash - Neal Stephenson
 * The Three-Body Problem - Liu Cixin
 * Suicide and Contemporary Science Fiction - Carlos Gutiérrez-Jones
+* Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter
 
 ### Investing and Finance:
 
