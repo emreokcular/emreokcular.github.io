@@ -71,7 +71,7 @@ Currently, as a Senior Data Scientist and Machine Learning Engineer, solving rea
 * [MIDI Keyboard Learning Journey with Ableton Live]()
 
 <!-- LikeBtn.com BEGIN -->
-<span class="likebtn-wrapper" data-theme="mini" data-i18n_like="Like | " data-ef_voting="heartbeat" data-identifier="item_1" data-dislike_enabled="false" data-share_size="large" data-i18n_after_like="Liked" data-i18n_like_tooltip="Like it !"></span>
+<span class="likebtn-wrapper" data-theme="disk" data-i18n_like="Like | " data-ef_voting="heartbeat" data-identifier="item_1" data-dislike_enabled="false" data-icon_dislike_show="false" data-voting_cancelable="false" data-popup_disabled="true" data-share_enabled="false" data-tooltip_enabled="false"></span>
 <script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
 <!-- LikeBtn.com END -->
 
