@@ -1,6 +1,8 @@
 # Tech Noir
 
-*Futuristic drama in 2094. A group of scientists invented a machine that can precisely measure the love between two people by analyzing all the data points you have generated since your birth, including the features of the gift you forgot in your shopping cart for Valentine's Day, daily pressure data from your smart toothbrush and your intelligent vacuum cleaner path at home...*
+*Futuristic drama in 2094. A group of scientists invented an algorithm machine that can precisely measure the love between two people by analyzing all the data points you have generated since your birth, including the features of the gift you forgot in your shopping cart for Valentine's Day, daily pressure data from your smart toothbrush, lifelong heartbeat, dreams and your intelligent vacuum cleaner path at home...*
+
+> "Only love and death will change all things." - Khalil Gibran
 
 **Turkish:**
 
