@@ -1,5 +1,6 @@
 # Meticulously Curated Book Lists
 
+>  “The true university of these days is a collection of books.” -  Thomas Carlyle, 'On Heroes, Hero Worship and the Heroic in History'
 
 ### Non-Fiction:
 
