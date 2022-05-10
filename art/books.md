@@ -69,3 +69,5 @@
 * Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI - Shlomo Kashani
 * Probabilistic Machine Learning: An Introduction - Kevin Patrick Murphy
 * Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann
+* Introducing MLOps - Mark Treveil
+* Turkish Natural Language Processing (Theory and Applications of Natural Language Processing) - Kemal Oflazer, Murat Saraçlar
