@@ -57,6 +57,7 @@ Currently, as a Senior Data Scientist and Machine Learning Engineer, solving rea
 * [TV Series with Posters](https://www.kaggle.com/emreokcular/turkish-tv-series-with-posters)
 * [Movies]()
 * [Movies with Posters]()
+* [Actors and Actresses]()
 * [Anatolian Rugs]()
 * [Soccer Games Database]()
 * [Jokes]()
