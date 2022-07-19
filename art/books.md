@@ -64,6 +64,7 @@
 
 ### Technical:
 
+* The Art of Doing Science and Engineering: Learning to Learn - Richard W. Hamming
 * Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD - Jeremy Howard
 * Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps - Valliappa Lakshmanan
 * Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI - Shlomo Kashani
@@ -71,3 +72,6 @@
 * Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann
 * Introducing MLOps - Mark Treveil
 * Turkish Natural Language Processing (Theory and Applications of Natural Language Processing) - Kemal Oflazer, Murat Saraçlar
+* Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - Chip Huyen
+* Practical MLOps: Operationalizing Machine Learning Models - Noah Gift
+* Natural Language Processing with Transformers: Building Language Applications with Hugging Face - Lewis Tunstall , Leandro von Werra , et al.
