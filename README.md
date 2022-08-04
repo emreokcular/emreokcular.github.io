@@ -4,7 +4,12 @@
     <meta name="image" property="og:image" content="https://www.okcular.com.tr/resources/image.png">
 </head>
 <img src="https://www.okcular.com.tr/resources/image.png" style="display: none;" />
-<p style="text-align: center;font-size:40px;font-family:Times">EMRE OKCULAR</p>
+
+<style>
+@font-face { font-family: sweet; src: url('SweetSansProLight.otf'); } 
+</style>
+
+<p style="text-align: center;font-size:40px;font-family:sweet">EMRE OKCULAR</p>
 
 <p style="text-align: center;font-size:20px;font-family:Times"> 📍 San Francisco, CA | <a href="mailto:emreokcular@gmail.com">📩 emreokcular@gmail.com</a> | 👔 <a href="https://www.linkedin.com/in/emreokcular">linkedin.com/in/emreokcular</a> | 💻 <a href="https://www.github.com/emreokcular">github.com/emreokcular</a> </p>  
 
