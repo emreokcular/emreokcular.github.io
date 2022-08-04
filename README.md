@@ -6,7 +6,7 @@
 <img src="https://www.okcular.com.tr/resources/image.png" style="display: none;" />
 
 <style>
-@font-face { font-family: sweet; src: url('SweetSansProLight.otf'); } 
+@font-face { font-family: sweet; font-weight: bold; src: url('SweetSansProLight.otf'); } 
 </style>
 
 <p style="text-align: center;font-size:40px;font-family:sweet">EMRE OKCULAR</p>
