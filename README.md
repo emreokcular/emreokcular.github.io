@@ -22,6 +22,8 @@ A lifelong learner, curious problem solver, and outgoing teammate with strong co
 
 Currently, as a Senior Data Scientist and Machine Learning Engineer, solving real-world problems from a wide variety of business domains with deep data science and engineering perspective. Specialized in Machine Learning Engineering by building end-to-end ML pipelines in production and deep learning.
 
+Feel free to reach out! Open for interesting ideas, new connections and encounters.
+
 <!---
 <h2 align="center" style="border-bottom: none" ><a href="/resources/Emre_Okcular-Resume.pdf">RESUME</a></h2>
 --->
