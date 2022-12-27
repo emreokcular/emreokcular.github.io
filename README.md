@@ -62,6 +62,7 @@ Feel free to reach out! Open for interesting ideas, new connections and encounte
 * [Poems](https://www.kaggle.com/emreokcular/turkish-poems)
 * [TV Series](https://www.kaggle.com/datasets/emreokcular/turkish-tv-series)
 * [TV Series with Posters](https://www.kaggle.com/emreokcular/turkish-tv-series-with-posters)
+* [Food Recipes]()
 * [Movies]()
 * [Movies with Posters]()
 * [Actors and Actresses]()
