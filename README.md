@@ -70,6 +70,7 @@ Feel free to reach out! Open for interesting ideas, new connections and encounte
 * [Soccer Games Database]()
 * [Jokes]()
 * [Tales and Fables]()
+* [Idioms and Phrases]()
 
 ### 📚  Books
 * [Book Lists](/art/books.md)
