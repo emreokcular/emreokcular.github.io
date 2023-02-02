@@ -60,7 +60,7 @@ Feel free to reach out! Open for interesting ideas, new connections and encounte
 * [Popular Song Lyrics](https://www.kaggle.com/emreokcular/turkish-song-lyrics)
 * [Folk Song Lyrics](https://www.kaggle.com/emreokcular/turkish-folk-song-lyrics)
 * [Poems](https://www.kaggle.com/emreokcular/turkish-poems)
-* [Idioms and Phrases]()
+* [Idioms and Proverbs](https://www.kaggle.com/datasets/emreokcular/turkish-idioms-and-proverbs)
 * [TV Series](https://www.kaggle.com/datasets/emreokcular/turkish-tv-series)
 * [TV Series with Posters](https://www.kaggle.com/emreokcular/turkish-tv-series-with-posters)
 * [Movies](https://www.kaggle.com/datasets/emreokcular/turkish-movies)
