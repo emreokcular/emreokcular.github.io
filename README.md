@@ -18,9 +18,9 @@
 <!---Emre Okcular Personal Website
 =======--->
 
-A lifelong learner, curious problem solver, and outgoing teammate with strong communication skills. With a solid mathematical background and three years of software and data engineering experience in real-time streaming analytics, recently graduated from [MS in Data Science](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) at the University of San Francisco with a focus on applied machine learning. Fluent in Python, PyTorch, Java, and SQL with production-level experience.
+Experienced senior machine learning engineer consultant with 6+ years of experience designing, building, testing, deploying and maintaining ML systems, including high-performance real-time streaming analytics and marketing applications, with a software and data engineering background. Specialized in building end-to-end scalable machine learning pipelines and MLOps. 
 
-Currently, as a Senior Data Scientist and Machine Learning Engineer, solving real-world problems from a wide variety of business domains with deep data science and engineering perspective. Specialized in Machine Learning Engineering by building end-to-end ML pipelines in production and deep learning.
+Passionate client-facing ML solution architect with strong communication skills. Solving real-world problems from a wide variety of business domains by combining domain knowledge, data science and engineering perspective.
 
 Feel free to reach out! Open for interesting ideas, new connections and encounters.
 
