@@ -20,9 +20,9 @@
 
 Experienced senior machine learning engineer consultant with 6+ years of experience designing, building, testing, deploying and maintaining ML systems, including high-performance real-time streaming analytics and marketing applications, with a software and data engineering background. Specialized in building end-to-end scalable machine learning pipelines and MLOps. 
 
-Passionate client-facing ML solution architect with strong communication skills. Solving real-world problems from a wide variety of business domains by combining domain knowledge, data science and engineering perspective.
+Currently, as a passionate client-facing ML solution architect with strong communication skills, solving real-world problems from a wide variety of business domains by combining domain knowledge, data science and engineering perspective.
 
-Feel free to reach out! Open for interesting ideas, new connections and encounters.
+Feel free to reach out! Open to exciting ideas, new connections and encounters.
 
 <!---
 <h2 align="center" style="border-bottom: none" ><a href="/resources/Emre_Okcular-Resume.pdf">RESUME</a></h2>
