@@ -1,4 +1,6 @@
 # Meticulously Curated Quotes
 
-<center><img src="/resources/mscott_quote.jpg" width="50%" and height="50%"></center>
+<br/><br/>
+
+<center><img src="/resources/mscott_quote.jpg" width="80%" and height="80%"></center>
 
