@@ -4,7 +4,7 @@
 
 <center><img src="/resources/mscott_quote.jpg" width="80%" and height="80%"></center>
 
-<p style="text-align: center;">Quotes from Books</p>
+<h2 align="center">Quotes from Books</h2>
 
 **The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism - Olivia Fox Cabane**
 
