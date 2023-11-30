@@ -4,6 +4,7 @@
 
 <center><img src="/resources/mscott_quote.jpg" width="80%" and height="80%"></center>
 
+<<<<<<< HEAD
 ---
 
 **The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism - Olivia Fox Cabane**
@@ -13,3 +14,5 @@
 > When your brain spins negative scenarios, remind yourself that you may not be getting an accurate perception of reality.
 
 ---
+
+Loading...
