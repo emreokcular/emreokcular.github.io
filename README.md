@@ -44,6 +44,7 @@ Feel free to reach out! Open to exciting ideas, new connections and encounters.
 * [Chicago Metro Daily Rider Prediction](https://github.com/emreokcular/chicago-trains) - *July 2021*
 * [Fabric Defect Detection with Deep Learning](https://github.com/emreokcular/textile-defect-detection) - *August 2021*
 * [Turkish Song Lyrics Analysis with NLP and Song Generation with Deep Learning](/projects/turkish_lyrics.md) - *December 2021*
+* [AI Agents](/projects/agents.md) - *July 2024*
 
 <!-- TODO -->
 <!---* [Real-time Stream Clustering with DenStream](https://github.com/emreokcular) -->
