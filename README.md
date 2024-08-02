@@ -69,6 +69,7 @@ Feel free to reach out! Open to exciting ideas, new connections and encounters.
 * [Dream Interpretation Dictionary]()
 * [Actors and Actresses]()
 * [Soccer Games Database]()
+* [Stand-up Comedy Scripts]()
 * [Food Recipes]()
 * [Anatolian Rugs]()
 * [Jokes]()
