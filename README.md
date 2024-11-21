@@ -81,6 +81,7 @@ Feel free to reach out! Open to exciting ideas, new connections and encounters.
 ### 🖊️  Stories
 * [Tech Noir](/stories/tech_noir.md)
 * [Random Access Memories](/stories/random_access_memories.md)
+* [Approximate Nearest Soul]()
 
 ### ✍🏻  Quotes
 * [The Collection](/art/quotes.md)

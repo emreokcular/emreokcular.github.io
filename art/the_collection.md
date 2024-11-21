@@ -15,7 +15,7 @@ Meticulously curating exquisite art forms or moments such as visual, music, perf
 *Eksildi kafamda tahta\
 Değil matah da yaşamak, gülüm\
 Bi' kurtulsa kuşum kafesten\
-Karılsa deste bi' daha*\
+Karılsa deste bi' daha*
 
 *Sen seçtin, yazıldı yazgın\
 Olur mu dizgin o ata, anam?\
