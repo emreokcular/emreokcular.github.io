@@ -20,4 +20,10 @@
 
 ---
 
+**Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect - Will Guidara**
+
+> “People will forget what you do; they’ll forget what you said. But they’ll never forget how you made them feel.” This quote, often (but probably incorrectly) attributed to the great American writer Maya Angelou, may be the wisest statement about hospitality ever made.
+
+---
+
 Loading...
