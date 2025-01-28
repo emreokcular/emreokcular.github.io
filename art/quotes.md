@@ -27,6 +27,38 @@
 
 **The Psychology of Money: Timeless lessons on wealth, greed, and happiness - Morgan Housel**
 
+> But the truth is that wealth is what you don’t see. Wealth is the nice cars not purchased. The diamonds not bought. The watches not worn, the clothes forgone and the first-class upgrade declined. Wealth is financial assets that haven’t yet been converted into the stuff you see.
+
+> Daniel Kahneman once told me about the stories people tell themselves to make sense of the past. He said: Hindsight, the ability to explain the past, gives us the illusion that the world is understandable. It gives us the illusion that the world makes sense, even when it doesn’t make sense. That’s a big deal in producing mistakes in many fields.
+
+> Things that have never happened before happen all the time.
+
+> Saving is the gap between your ego and your income.
+
+> Napoleon’s definition of a military genius was, “The man who can do the average thing when all those around him are going crazy.
+
+> Progress happens too slowly to notice, but setbacks happen too quickly to ignore.
+
+---
+
+**Who Moved My Cheese? - Spencer Johnson**
+
+---
+
+**Can't Hurt Me: Master Your Mind and Defy the Odds - David Goggins**
+
+---
+
+**The Infinite Game - Simon Sinek**
+
+---
+
+**The Culture Code: The Secrets of Highly Successful Groups - Daniel Coyle**
+
+---
+
+**Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think - Hans Rosling, Ola Rosling, Anna Rosling Rönnlund**
+
 ---
 
 Loading...
