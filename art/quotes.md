@@ -4,7 +4,7 @@
 
 <center><img src="/resources/mscott_quote.jpg" width="80%" and height="80%"></center>
 
-<h1 align="center">Quotes from Books</h1>
+<h1 align="center">Quotes from Books I've Read</h1>
 
 **The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism - Olivia Fox Cabane**
 
@@ -44,22 +44,30 @@
 
 **Who Moved My Cheese? - Spencer Johnson**
 
+Loading...
+
 ---
 
 **Can't Hurt Me: Master Your Mind and Defy the Odds - David Goggins**
+
+Loading...
 
 ---
 
 **The Infinite Game - Simon Sinek**
 
+Loading...
+
 ---
 
 **The Culture Code: The Secrets of Highly Successful Groups - Daniel Coyle**
+
+Loading...
 
 ---
 
 **Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think - Hans Rosling, Ola Rosling, Anna Rosling Rönnlund**
 
----
-
 Loading...
+
+---
