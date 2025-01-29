@@ -48,6 +48,12 @@ Loading...
 
 ---
 
+**The Unspoken Truths for Career Success: Navigating Pay, Promotions, and Power at Work - Tessa White**
+
+Loading...
+
+---
+
 **Can't Hurt Me: Master Your Mind and Defy the Odds - David Goggins**
 
 Loading...
