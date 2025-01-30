@@ -6,9 +6,19 @@ Meticulously curating exquisite art forms or moments such as visual, music, perf
 
 <br/>
 
+---
+
 ### A Bosphorus ferry departing from Kandilli in the evening - Ara Güler, 1965
 
 ![ferry](/resources/vapur.jpg)
+
+---
+
+### Pink Floyd - High Hopes: Eye-closing solo starting at 5:10
+
+[![Watch the video](https://img.youtube.com/vi/7jMlFXouPk8/default.jpg)](https://www.youtube.com/watch?v=7jMlFXouPk8)
+
+---
 
 ### Lyrics from Düldül - Mabel Matiz, 2023
 
