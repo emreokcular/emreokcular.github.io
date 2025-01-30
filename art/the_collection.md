@@ -14,9 +14,11 @@ Meticulously curating exquisite art forms or moments such as visual, music, perf
 
 ---
 
-### Pink Floyd - High Hopes: Eye-closing solo starting at 5:10
+### Pink Floyd - High Hopes: Eye-closing solo starting at 5:10, 1994
 
-[![Watch the video](https://img.youtube.com/vi/7jMlFXouPk8/default.jpg)](https://www.youtube.com/watch?v=7jMlFXouPk8)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7jMlFXouPk8" target="_blank">
+ <img src="https://img.youtube.com/vi/7jMlFXouPk8/default.jpg" alt="Watch the video" width="480" height="360" />
+</a>
 
 ---
 
