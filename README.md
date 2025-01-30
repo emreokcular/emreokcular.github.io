@@ -18,9 +18,9 @@
 <!---Emre Okcular Personal Website
 =======--->
 
-Senior machine learning engineer consultant with 8 years of experience in designing, building, testing, deploying and maintaining ML systems, including high-performance real-time streaming analytics and marketing applications, with a solid software and data engineering background. Specialized in building end-to-end scalable machine learning pipelines and MLOps. 
+Senior AI engineer with 8 years of experience in designing, building, testing, deploying and maintaining AI systems, with a strong background in software engineering, data engineering and consulting. Specialized in building end-to-end scalable ML pipelines and LLMOps. 
 
-Currently, as a passionate client-facing ML solution architect with strong communication skills, solving real-world problems from a wide variety of businesses by combining domain knowledge, machine learning and engineering perspective.
+Currently, as a passionate client-facing AI solution architect with strong communication skills, solving real-world problems from a wide variety of business domains by combining domain knowledge, data science, and engineering perspective.
 
 Feel free to reach out! Open to exciting ideas, new connections and encounters.
 
