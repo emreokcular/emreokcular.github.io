@@ -6,6 +6,8 @@
 
 <h1 align="center">Quotes from Books I've Read</h1>
 
+<h2 align="center">2024</h1>
+
 **The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism - Olivia Fox Cabane**
 
 > The difficult feelings we experience are a natural by-product of one of our most useful survival mechanisms.
@@ -25,6 +27,8 @@
 > “People will forget what you do; they’ll forget what you said. But they’ll never forget how you made them feel.” This quote, often (but probably incorrectly) attributed to the great American writer Maya Angelou, may be the wisest statement about hospitality ever made.
 
 ---
+
+<h2 align="center">2025</h1>
 
 **The Psychology of Money: Timeless lessons on wealth, greed, and happiness - Morgan Housel**
 
@@ -77,3 +81,22 @@ Loading...
 Loading...
 
 ---
+
+**Why We Sleep: Unlocking the Power of Sleep and Dreams - Matthew Walker**
+
+Loading...
+
+---
+
+**Never Split the Difference: Negotiating as if Your Life Depended on It - Chris Voss**
+
+Loading...
+
+---
+
+**Elon Musk - Walter Isaacson**
+
+Loading...
+
+---
+
