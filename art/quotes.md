@@ -44,7 +44,7 @@
 
 **Who Moved My Cheese? - Spencer Johnson**
 
-Loading...
+> Some people never change and they pay a price for it.
 
 ---
 
