@@ -8,6 +8,14 @@
 
 <h2 align="center">2024</h1>
 
+**In the Plex: How Google Thinks, Works, and Shapes Our Lives - Steven Levy**
+
+> Even if you fail at your ambitious thing, it’s very hard to fail completely.
+
+> Arthur Clarke once remarked that the best technology was indistinguishable from magic.
+
+---
+
 **The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism - Olivia Fox Cabane**
 
 > The difficult feelings we experience are a natural by-product of one of our most useful survival mechanisms.
