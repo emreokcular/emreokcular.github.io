@@ -6,7 +6,7 @@
 
 <h1 align="center">Quotes from Books I've Read</h1>
 
-<h2 align="center">2024</h1>
+<h2 align="center">2024</h2>
 
 **The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism - Olivia Fox Cabane**
 
@@ -36,7 +36,7 @@
 
 ---
 
-<h2 align="center">2025</h1>
+<h2 align="center">2025</h2>
 
 **The Psychology of Money: Timeless lessons on wealth, greed, and happiness - Morgan Housel**
 
