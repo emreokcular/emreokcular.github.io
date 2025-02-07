@@ -131,3 +131,15 @@ Loading...
 Loading...
 
 ---
+
+**The Nvidia Way: Jensen Huang and the Making of a Tech Giant - Tae Kim**
+
+Loading...
+
+---
+
+**Chip War: The Fight for the World's Most Critical Technology - Chris Miller**
+
+Loading...
+
+---
