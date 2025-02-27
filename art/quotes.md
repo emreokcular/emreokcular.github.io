@@ -143,3 +143,9 @@ Loading...
 Loading...
 
 ---
+
+**Extreme Ownership: How U.S. Navy SEALs Lead and Win - Jocko Willink, Leif Babin**
+
+Loading...
+
+---
