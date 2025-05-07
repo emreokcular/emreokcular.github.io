@@ -149,3 +149,9 @@ Loading...
 Loading...
 
 ---
+
+No Rules Rules: Netflix and the Culture of Reinvention Hardcover - Reed Hastings, Erin Meyer
+
+Loading...
+
+---
